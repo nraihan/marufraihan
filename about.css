@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    background: black;
+    
+}
+.pic{
+    background-image: url(images/timing.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
